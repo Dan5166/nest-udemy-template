@@ -3,7 +3,11 @@
 /node_modules
 /build
 postgres/
-/public
+static/products/*
+!static/products/.gitkeep
+public/products/*
+!public/products/.gitkeep
+
 
 # Logs
 logs
